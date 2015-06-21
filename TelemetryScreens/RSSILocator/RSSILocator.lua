@@ -1,5 +1,5 @@
--- RSSI Strength Model Locator
--- by Scott Bauer 6/29/2014
+-- RSSI Model Locator
+-- by Scott Bauer 6/21/2015
 --
 -- Copy this into a SCRIPTS/<modelname>/ with the name `telem#.lua`,
 -- where # is telemetry screen number you'd like to use.  Drop
